@@ -1,0 +1,8 @@
+/home/cristobal/Downloads/fuzzy/src/main/java/com/reputation/example/fuzzy/Scorer.java
+/home/cristobal/Downloads/fuzzy/src/main/java/com/reputation/example/fuzzy/ScorerFactory.java
+/home/cristobal/Downloads/fuzzy/src/main/java/com/reputation/example/fuzzy/scorer/DistanceScorer.java
+/home/cristobal/Downloads/fuzzy/src/main/java/com/reputation/example/fuzzy/scorer/JaroWinkler.java
+/home/cristobal/Downloads/fuzzy/src/main/java/com/reputation/example/fuzzy/Calculator.java
+/home/cristobal/Downloads/fuzzy/src/main/java/com/reputation/example/fuzzy/FuzzyApplication.java
+/home/cristobal/Downloads/fuzzy/src/main/java/com/reputation/example/fuzzy/scorer/Levenshtein.java
+/home/cristobal/Downloads/fuzzy/src/main/java/com/reputation/example/fuzzy/scorer/Cosine.java

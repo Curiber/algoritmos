@@ -1,0 +1,8 @@
+com/reputation/example/fuzzy/Scorer.class
+com/reputation/example/fuzzy/scorer/DistanceScorer.class
+com/reputation/example/fuzzy/ScorerFactory.class
+com/reputation/example/fuzzy/FuzzyApplication.class
+com/reputation/example/fuzzy/Calculator.class
+com/reputation/example/fuzzy/scorer/Cosine.class
+com/reputation/example/fuzzy/scorer/JaroWinkler.class
+com/reputation/example/fuzzy/scorer/Levenshtein.class
